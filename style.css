@@ -1,6 +1,6 @@
 	@import 'https://fonts.googleapis.com/css?family=Dancing+Script|Josefin+Slab|Lobster';
 	body{
-		background: url(../body.jpg);
+		background: url(body.jpg);
 		font-family: 'Josefin Slab', serif;
 		font-size: 120%;
 		background-repeat: repeat-y;
